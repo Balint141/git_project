@@ -12,6 +12,7 @@ $c  = 12;
 
 
 print $a + $b + $c;
+//most váltok a kivonásra
 
 
 ?>
