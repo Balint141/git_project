@@ -6,13 +6,22 @@
 // Összeadás
 //------------------
 
-$a = 12;
+$a = 105;
 $b = 17;
-$c  = 12;
-print $a+$b+$c;
+$c =12;
 
-print $a + $b + $c;
-//most váltok a kivonásra
+//a konfliktus megoldódott
+ 
+//kivonás
+$x =35;
+$y =19;
+
+//ez a kivonás
+
+//konfliktus lesz
+
+
+
 
 
 ?>
